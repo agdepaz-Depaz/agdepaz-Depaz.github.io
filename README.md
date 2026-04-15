@@ -1,3 +1,3 @@
-# CIS300-S26-Depaz
+# agdepaz.github.io
 'This repository contains files for CIS300 Project
 Assignments.
